@@ -1,0 +1,275 @@
+[07-Apr-2019 07:07:53 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 41
+[07-Apr-2019 07:07:53 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 42
+[07-Apr-2019 07:07:53 Etc/GMT] PHP Notice:  Undefined index: timeselected in /home/parakcyy/public_html/search.php on line 43
+[07-Apr-2019 07:07:53 Etc/GMT] PHP Notice:  Undefined index: startlagmax in /home/parakcyy/public_html/search.php on line 44
+[07-Apr-2019 07:07:53 Etc/GMT] PHP Notice:  Undefined index: minlayover in /home/parakcyy/public_html/search.php on line 45
+[07-Apr-2019 07:07:53 Etc/GMT] PHP Notice:  Undefined index: maxlayover in /home/parakcyy/public_html/search.php on line 46
+[07-Apr-2019 07:07:54 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 93
+[07-Apr-2019 07:07:54 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 95
+[07-Apr-2019 07:07:54 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/parakcyy/public_html/search.php on line 107
+[07-Apr-2019 17:02:13 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/parakcyy/public_html/search.php on line 113
+[09-Apr-2019 07:39:53 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 47
+[09-Apr-2019 07:39:53 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 48
+[09-Apr-2019 07:39:53 Etc/GMT] PHP Notice:  Undefined index: timeselected in /home/parakcyy/public_html/search.php on line 49
+[09-Apr-2019 07:39:53 Etc/GMT] PHP Notice:  Undefined index: startlagmax in /home/parakcyy/public_html/search.php on line 50
+[09-Apr-2019 07:39:53 Etc/GMT] PHP Notice:  Undefined index: minlayover in /home/parakcyy/public_html/search.php on line 51
+[09-Apr-2019 07:39:53 Etc/GMT] PHP Notice:  Undefined index: maxlayover in /home/parakcyy/public_html/search.php on line 52
+[09-Apr-2019 07:39:53 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 99
+[09-Apr-2019 07:39:53 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 101
+[09-Apr-2019 07:39:53 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/parakcyy/public_html/search.php on line 113
+[09-Apr-2019 08:02:17 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 47
+[09-Apr-2019 08:02:17 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 48
+[09-Apr-2019 08:02:17 Etc/GMT] PHP Notice:  Undefined index: timeselected in /home/parakcyy/public_html/search.php on line 49
+[09-Apr-2019 08:02:17 Etc/GMT] PHP Notice:  Undefined index: startlagmax in /home/parakcyy/public_html/search.php on line 50
+[09-Apr-2019 08:02:17 Etc/GMT] PHP Notice:  Undefined index: minlayover in /home/parakcyy/public_html/search.php on line 51
+[09-Apr-2019 08:02:17 Etc/GMT] PHP Notice:  Undefined index: maxlayover in /home/parakcyy/public_html/search.php on line 52
+[09-Apr-2019 08:02:18 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 99
+[09-Apr-2019 08:02:18 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 101
+[09-Apr-2019 08:02:18 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/parakcyy/public_html/search.php on line 113
+[09-Apr-2019 20:16:32 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 47
+[09-Apr-2019 20:16:32 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 48
+[09-Apr-2019 20:16:32 Etc/GMT] PHP Notice:  Undefined index: timeselected in /home/parakcyy/public_html/search.php on line 49
+[09-Apr-2019 20:16:32 Etc/GMT] PHP Notice:  Undefined index: startlagmax in /home/parakcyy/public_html/search.php on line 50
+[09-Apr-2019 20:16:32 Etc/GMT] PHP Notice:  Undefined index: minlayover in /home/parakcyy/public_html/search.php on line 51
+[09-Apr-2019 20:16:32 Etc/GMT] PHP Notice:  Undefined index: maxlayover in /home/parakcyy/public_html/search.php on line 52
+[09-Apr-2019 20:16:32 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 99
+[09-Apr-2019 20:16:32 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 101
+[09-Apr-2019 20:16:32 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/parakcyy/public_html/search.php on line 113
+[11-Apr-2019 15:56:54 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 47
+[11-Apr-2019 15:56:54 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 48
+[11-Apr-2019 15:56:54 Etc/GMT] PHP Notice:  Undefined index: timeselected in /home/parakcyy/public_html/search.php on line 49
+[11-Apr-2019 15:56:54 Etc/GMT] PHP Notice:  Undefined index: startlagmax in /home/parakcyy/public_html/search.php on line 50
+[11-Apr-2019 15:56:54 Etc/GMT] PHP Notice:  Undefined index: minlayover in /home/parakcyy/public_html/search.php on line 51
+[11-Apr-2019 15:56:54 Etc/GMT] PHP Notice:  Undefined index: maxlayover in /home/parakcyy/public_html/search.php on line 52
+[11-Apr-2019 15:56:54 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 99
+[11-Apr-2019 15:56:54 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 101
+[11-Apr-2019 15:56:54 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/parakcyy/public_html/search.php on line 115
+[12-Apr-2019 08:50:23 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 47
+[12-Apr-2019 08:50:23 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 48
+[12-Apr-2019 08:50:23 Etc/GMT] PHP Notice:  Undefined index: timeselected in /home/parakcyy/public_html/search.php on line 49
+[12-Apr-2019 08:50:23 Etc/GMT] PHP Notice:  Undefined index: startlagmax in /home/parakcyy/public_html/search.php on line 50
+[12-Apr-2019 08:50:23 Etc/GMT] PHP Notice:  Undefined index: minlayover in /home/parakcyy/public_html/search.php on line 51
+[12-Apr-2019 08:50:23 Etc/GMT] PHP Notice:  Undefined index: maxlayover in /home/parakcyy/public_html/search.php on line 52
+[12-Apr-2019 08:50:23 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 99
+[12-Apr-2019 08:50:23 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 101
+[12-Apr-2019 08:50:23 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/parakcyy/public_html/search.php on line 115
+[17-Apr-2019 12:51:08 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 47
+[17-Apr-2019 12:51:08 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 48
+[17-Apr-2019 12:51:08 Etc/GMT] PHP Notice:  Undefined index: timeselected in /home/parakcyy/public_html/search.php on line 49
+[17-Apr-2019 12:51:08 Etc/GMT] PHP Notice:  Undefined index: startlagmax in /home/parakcyy/public_html/search.php on line 50
+[17-Apr-2019 12:51:08 Etc/GMT] PHP Notice:  Undefined index: minlayover in /home/parakcyy/public_html/search.php on line 51
+[17-Apr-2019 12:51:08 Etc/GMT] PHP Notice:  Undefined index: maxlayover in /home/parakcyy/public_html/search.php on line 52
+[17-Apr-2019 12:51:08 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 99
+[17-Apr-2019 12:51:08 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 101
+[17-Apr-2019 12:51:08 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/parakcyy/public_html/search.php on line 115
+[17-Apr-2019 13:26:11 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 47
+[17-Apr-2019 13:26:11 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 48
+[17-Apr-2019 13:26:11 Etc/GMT] PHP Notice:  Undefined index: timeselected in /home/parakcyy/public_html/search.php on line 49
+[17-Apr-2019 13:26:11 Etc/GMT] PHP Notice:  Undefined index: startlagmax in /home/parakcyy/public_html/search.php on line 50
+[17-Apr-2019 13:26:11 Etc/GMT] PHP Notice:  Undefined index: minlayover in /home/parakcyy/public_html/search.php on line 51
+[17-Apr-2019 13:26:11 Etc/GMT] PHP Notice:  Undefined index: maxlayover in /home/parakcyy/public_html/search.php on line 52
+[17-Apr-2019 13:26:11 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 99
+[17-Apr-2019 13:26:11 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 101
+[17-Apr-2019 13:26:11 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/parakcyy/public_html/search.php on line 115
+[17-Apr-2019 15:02:50 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 47
+[17-Apr-2019 15:02:50 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 48
+[17-Apr-2019 15:02:50 Etc/GMT] PHP Notice:  Undefined index: timeselected in /home/parakcyy/public_html/search.php on line 49
+[17-Apr-2019 15:02:50 Etc/GMT] PHP Notice:  Undefined index: startlagmax in /home/parakcyy/public_html/search.php on line 50
+[17-Apr-2019 15:02:50 Etc/GMT] PHP Notice:  Undefined index: minlayover in /home/parakcyy/public_html/search.php on line 51
+[17-Apr-2019 15:02:50 Etc/GMT] PHP Notice:  Undefined index: maxlayover in /home/parakcyy/public_html/search.php on line 52
+[17-Apr-2019 15:02:56 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 99
+[17-Apr-2019 15:02:56 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 101
+[17-Apr-2019 15:02:56 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/parakcyy/public_html/search.php on line 115
+[17-Apr-2019 15:04:37 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 47
+[17-Apr-2019 15:04:37 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 48
+[17-Apr-2019 15:04:37 Etc/GMT] PHP Notice:  Undefined index: timeselected in /home/parakcyy/public_html/search.php on line 49
+[17-Apr-2019 15:04:37 Etc/GMT] PHP Notice:  Undefined index: startlagmax in /home/parakcyy/public_html/search.php on line 50
+[17-Apr-2019 15:04:37 Etc/GMT] PHP Notice:  Undefined index: minlayover in /home/parakcyy/public_html/search.php on line 51
+[17-Apr-2019 15:04:37 Etc/GMT] PHP Notice:  Undefined index: maxlayover in /home/parakcyy/public_html/search.php on line 52
+[17-Apr-2019 15:04:43 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 99
+[17-Apr-2019 15:04:43 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 101
+[17-Apr-2019 15:04:43 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/parakcyy/public_html/search.php on line 115
+[17-Apr-2019 15:27:39 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 47
+[17-Apr-2019 15:27:39 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 48
+[17-Apr-2019 15:27:39 Etc/GMT] PHP Notice:  Undefined index: timeselected in /home/parakcyy/public_html/search.php on line 49
+[17-Apr-2019 15:27:39 Etc/GMT] PHP Notice:  Undefined index: startlagmax in /home/parakcyy/public_html/search.php on line 50
+[17-Apr-2019 15:27:39 Etc/GMT] PHP Notice:  Undefined index: minlayover in /home/parakcyy/public_html/search.php on line 51
+[17-Apr-2019 15:27:39 Etc/GMT] PHP Notice:  Undefined index: maxlayover in /home/parakcyy/public_html/search.php on line 52
+[17-Apr-2019 15:27:40 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 99
+[17-Apr-2019 15:27:40 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 101
+[17-Apr-2019 15:27:40 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/parakcyy/public_html/search.php on line 115
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 17:39:26 Etc/GMT] PHP Notice:  Undefined variable: hdiff in /home/parakcyy/public_html/addcontent2.php on line 106
+[17-Apr-2019 19:50:59 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 47
+[17-Apr-2019 19:50:59 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 48
+[17-Apr-2019 19:50:59 Etc/GMT] PHP Notice:  Undefined index: timeselected in /home/parakcyy/public_html/search.php on line 49
+[17-Apr-2019 19:50:59 Etc/GMT] PHP Notice:  Undefined index: startlagmax in /home/parakcyy/public_html/search.php on line 50
+[17-Apr-2019 19:50:59 Etc/GMT] PHP Notice:  Undefined index: minlayover in /home/parakcyy/public_html/search.php on line 51
+[17-Apr-2019 19:50:59 Etc/GMT] PHP Notice:  Undefined index: maxlayover in /home/parakcyy/public_html/search.php on line 52
+[17-Apr-2019 19:51:00 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 99
+[17-Apr-2019 19:51:00 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 101
+[17-Apr-2019 19:51:00 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/parakcyy/public_html/search.php on line 115
+[18-Apr-2019 10:31:06 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 47
+[18-Apr-2019 10:31:06 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 48
+[18-Apr-2019 10:31:06 Etc/GMT] PHP Notice:  Undefined index: timeselected in /home/parakcyy/public_html/search.php on line 49
+[18-Apr-2019 10:31:06 Etc/GMT] PHP Notice:  Undefined index: startlagmax in /home/parakcyy/public_html/search.php on line 50
+[18-Apr-2019 10:31:06 Etc/GMT] PHP Notice:  Undefined index: minlayover in /home/parakcyy/public_html/search.php on line 51
+[18-Apr-2019 10:31:06 Etc/GMT] PHP Notice:  Undefined index: maxlayover in /home/parakcyy/public_html/search.php on line 52
+[18-Apr-2019 10:31:07 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 99
+[18-Apr-2019 10:31:07 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 101
+[18-Apr-2019 10:31:07 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/parakcyy/public_html/search.php on line 115
+[18-Apr-2019 13:24:57 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 47
+[18-Apr-2019 13:24:57 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 48
+[18-Apr-2019 13:24:57 Etc/GMT] PHP Notice:  Undefined index: timeselected in /home/parakcyy/public_html/search.php on line 49
+[18-Apr-2019 13:24:57 Etc/GMT] PHP Notice:  Undefined index: startlagmax in /home/parakcyy/public_html/search.php on line 50
+[18-Apr-2019 13:24:57 Etc/GMT] PHP Notice:  Undefined index: minlayover in /home/parakcyy/public_html/search.php on line 51
+[18-Apr-2019 13:24:57 Etc/GMT] PHP Notice:  Undefined index: maxlayover in /home/parakcyy/public_html/search.php on line 52
+[18-Apr-2019 13:24:57 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 99
+[18-Apr-2019 13:24:57 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 101
+[18-Apr-2019 13:24:57 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/parakcyy/public_html/search.php on line 115
+[18-Apr-2019 13:25:00 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 47
+[18-Apr-2019 13:25:00 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 48
+[18-Apr-2019 13:25:00 Etc/GMT] PHP Notice:  Undefined index: timeselected in /home/parakcyy/public_html/search.php on line 49
+[18-Apr-2019 13:25:00 Etc/GMT] PHP Notice:  Undefined index: startlagmax in /home/parakcyy/public_html/search.php on line 50
+[18-Apr-2019 13:25:00 Etc/GMT] PHP Notice:  Undefined index: minlayover in /home/parakcyy/public_html/search.php on line 51
+[18-Apr-2019 13:25:00 Etc/GMT] PHP Notice:  Undefined index: maxlayover in /home/parakcyy/public_html/search.php on line 52
+[18-Apr-2019 13:25:00 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 99
+[18-Apr-2019 13:25:00 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 101
+[18-Apr-2019 13:25:00 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/parakcyy/public_html/search.php on line 115
+[19-Apr-2019 17:41:11 Etc/GMT] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/parakcyy/public_html/search.php:211
+Stack trace:
+#0 {main}
+  thrown in /home/parakcyy/public_html/search.php on line 211
+[19-Apr-2019 17:42:05 Etc/GMT] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/parakcyy/public_html/search.php:211
+Stack trace:
+#0 {main}
+  thrown in /home/parakcyy/public_html/search.php on line 211
+[19-Apr-2019 17:42:48 Etc/GMT] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/parakcyy/public_html/search.php:212
+Stack trace:
+#0 {main}
+  thrown in /home/parakcyy/public_html/search.php on line 212
+[19-Apr-2019 17:44:26 Etc/GMT] PHP Warning:  Illegal string offset 'geoplugin_countryName' in /home/parakcyy/public_html/search.php on line 212
+[19-Apr-2019 18:07:42 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/parakcyy/public_html/search.php on line 225
+[20-Apr-2019 15:11:25 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 47
+[20-Apr-2019 15:11:25 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 48
+[20-Apr-2019 15:11:25 Etc/GMT] PHP Notice:  Undefined index: timeselected in /home/parakcyy/public_html/search.php on line 49
+[20-Apr-2019 15:11:25 Etc/GMT] PHP Notice:  Undefined index: startlagmax in /home/parakcyy/public_html/search.php on line 50
+[20-Apr-2019 15:11:25 Etc/GMT] PHP Notice:  Undefined index: minlayover in /home/parakcyy/public_html/search.php on line 51
+[20-Apr-2019 15:11:25 Etc/GMT] PHP Notice:  Undefined index: maxlayover in /home/parakcyy/public_html/search.php on line 52
+[20-Apr-2019 15:11:26 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 55
+[20-Apr-2019 15:11:26 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 56
+[20-Apr-2019 15:11:26 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/parakcyy/public_html/search.php on line 115
+[20-Apr-2019 19:55:37 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 6
+[20-Apr-2019 19:55:37 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 7
+[20-Apr-2019 19:55:37 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 8
+[20-Apr-2019 19:56:34 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 6
+[20-Apr-2019 19:56:34 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 7
+[20-Apr-2019 19:56:34 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 8
+[20-Apr-2019 19:57:14 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 6
+[20-Apr-2019 19:57:14 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 8
+[20-Apr-2019 19:57:14 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 19
+[20-Apr-2019 19:57:14 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 19
+[20-Apr-2019 19:57:51 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 6
+[20-Apr-2019 19:57:51 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 8
+[20-Apr-2019 19:57:51 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 19
+[20-Apr-2019 19:57:51 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 19
+[20-Apr-2019 19:58:00 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 6
+[20-Apr-2019 19:58:00 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 8
+[20-Apr-2019 19:58:00 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 19
+[20-Apr-2019 19:58:00 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 19
+[20-Apr-2019 19:58:24 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 6
+[20-Apr-2019 19:58:24 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 8
+[20-Apr-2019 19:58:24 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 19
+[20-Apr-2019 19:58:24 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 19
+[20-Apr-2019 19:59:26 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 6
+[20-Apr-2019 19:59:26 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 8
+[20-Apr-2019 19:59:26 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 19
+[20-Apr-2019 19:59:26 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 19
+[20-Apr-2019 19:59:26 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 20
+[20-Apr-2019 19:59:41 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 6
+[20-Apr-2019 19:59:41 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 8
+[20-Apr-2019 19:59:41 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 19
+[20-Apr-2019 19:59:41 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 19
+[20-Apr-2019 19:59:41 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 20
+[20-Apr-2019 20:00:06 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 6
+[20-Apr-2019 20:00:06 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 8
+[20-Apr-2019 20:00:06 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 19
+[20-Apr-2019 20:00:06 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 19
+[20-Apr-2019 20:00:06 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/parakcyy/public_html/contactsubmit.php on line 20
+[23-Apr-2019 14:43:00 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 47
+[23-Apr-2019 14:43:00 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 48
+[23-Apr-2019 14:43:00 Etc/GMT] PHP Notice:  Undefined index: timeselected in /home/parakcyy/public_html/search.php on line 49
+[23-Apr-2019 14:43:00 Etc/GMT] PHP Notice:  Undefined index: startlagmax in /home/parakcyy/public_html/search.php on line 50
+[23-Apr-2019 14:43:00 Etc/GMT] PHP Notice:  Undefined index: minlayover in /home/parakcyy/public_html/search.php on line 51
+[23-Apr-2019 14:43:00 Etc/GMT] PHP Notice:  Undefined index: maxlayover in /home/parakcyy/public_html/search.php on line 52
+[23-Apr-2019 14:43:00 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 55
+[23-Apr-2019 14:43:00 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 56
+[23-Apr-2019 14:43:00 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/parakcyy/public_html/search.php on line 114
+[24-Apr-2019 08:15:16 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 47
+[24-Apr-2019 08:15:16 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 48
+[24-Apr-2019 08:15:16 Etc/GMT] PHP Notice:  Undefined index: timeselected in /home/parakcyy/public_html/search.php on line 49
+[24-Apr-2019 08:15:16 Etc/GMT] PHP Notice:  Undefined index: startlagmax in /home/parakcyy/public_html/search.php on line 50
+[24-Apr-2019 08:15:16 Etc/GMT] PHP Notice:  Undefined index: minlayover in /home/parakcyy/public_html/search.php on line 51
+[24-Apr-2019 08:15:16 Etc/GMT] PHP Notice:  Undefined index: maxlayover in /home/parakcyy/public_html/search.php on line 52
+[24-Apr-2019 08:15:16 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 55
+[24-Apr-2019 08:15:16 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 56
+[24-Apr-2019 08:15:16 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/parakcyy/public_html/search.php on line 114
+[26-Apr-2019 12:13:59 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 47
+[26-Apr-2019 12:14:00 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 48
+[26-Apr-2019 12:14:00 Etc/GMT] PHP Notice:  Undefined index: timeselected in /home/parakcyy/public_html/search.php on line 49
+[26-Apr-2019 12:14:00 Etc/GMT] PHP Notice:  Undefined index: startlagmax in /home/parakcyy/public_html/search.php on line 50
+[26-Apr-2019 12:14:00 Etc/GMT] PHP Notice:  Undefined index: minlayover in /home/parakcyy/public_html/search.php on line 51
+[26-Apr-2019 12:14:00 Etc/GMT] PHP Notice:  Undefined index: maxlayover in /home/parakcyy/public_html/search.php on line 52
+[26-Apr-2019 12:14:00 Etc/GMT] PHP Notice:  Undefined index: originselected in /home/parakcyy/public_html/search.php on line 55
+[26-Apr-2019 12:14:00 Etc/GMT] PHP Notice:  Undefined index: destselected in /home/parakcyy/public_html/search.php on line 56
+[26-Apr-2019 12:14:00 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/parakcyy/public_html/search.php on line 114
